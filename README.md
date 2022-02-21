@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me : haamza.mailka@gmail.com
 - ⚡ Fact: Not a leaf falls but that he knows it.Quran-Surah Al-An'am. 🍂🍃
 -          We are responsible for the pursuit, not for the outcome.All recorded in a manifest book.
--          Injustice darkness on the Day of Resurrection
+-          Injustice darknesses on the Day of Resurrection. And to Allah will come to meet those in disputep
