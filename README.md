@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🎉 I have several certifications professionnel in Embedded Systems, Autonomous Navigation, Parallel Programming, Computer Vision, Machine Learning, Deep Learning and IoT.
 - 💬 Ask me : haamza.mailka@gmail.com
 - ⚡ Fact: Not a leaf falls but that he knows it.Quran-Surah Al-An'am. 🍂🍃
+-          working smart and hard in the same time
