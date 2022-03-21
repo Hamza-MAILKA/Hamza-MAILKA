@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -          working smart and hard in the same time
 -->
 
-- 💛 PhD Student at Mohammadia School of Engineering (EMI)- Mohammed V University of Rabat, Master's Degree Embedded Systems & Biomedical Engineering at National School of Applied Sciences Agadir (ENSAA)
+- 💛 Master's Degree Embedded Systems & Biomedical Engineering at National School of Applied Sciences Agadir (ENSAA)
 - 🌱 I’m currently focusing on learning new technologies. Addicted to learn and grow every single day.
 - 🎉 I have several certifications professionnel in Attitude control , Embedded Systems, Autonomous Navigation, Parallel programming and Computer Vision.
 - 💬 Ask me : haamza.mailka@gmail.com
