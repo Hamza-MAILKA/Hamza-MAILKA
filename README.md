@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<!--
+<!-- - 💛 PhD Student at EMI-UM5, Master's Degree Embedded Systems Biomedical Engineering at National School of Applied Sciences Agadir (ENSAA)
 **Hamza-MAILKA/Hamza-MAILKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 💛 PhD Student at EMI-UM5, Master's Degree Embedded Systems Biomedical Engineering at National School of Applied Sciences Agadir (ENSAA)
 - 🌱 I’m currently focusing on learning new technologies. Addicted to learn and grow every single day.
 - 🎉 I have several certifications professionnel in Embedded Systems, Autonomous Navigation, Parallel Programming, Computer Vision, Machine Learning, Deep Learning and IoT.
 - 💬 Ask me : haamza.mailka@gmail.com
@@ -13,9 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fact: Work for your world as if you are to live eternally, and work for your Hereafter as if you will die tomorrow.
 - ⚡ Fact: Not a leaf falls but that he knows it.Quran-Surah Al-An'am. 🍂🍃
 -          working smart and hard in the same time
--->
 
 - 💛  PhD student at the Universities Paris Saclay and Mohammed V of Rabat.Master's Degree in Embedded Systems at National School of Applied Sciences Agadir (ENSAA)
+
+-->
+
 - 🌱 I’m currently focusing on learning new technologies. Addicted to learn and grow every single day.
 - 🎉 I have several certifications professionnel in Attitude control , Embedded Systems, Autonomous Navigation, Parallel programming and Computer Vision.
 - 💬 Ask me : haamza.mailka@gmail.com
